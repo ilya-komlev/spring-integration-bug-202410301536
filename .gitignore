@@ -1,0 +1,8 @@
+/.*/
+
+!/.mvn/
+!/.github/
+
+/build/
+/out/
+/target/
